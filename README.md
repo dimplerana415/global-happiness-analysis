@@ -52,14 +52,17 @@ Created insightful visualizations to better understand global patterns:
 - A few countries exhibit *high happiness despite moderate GDP*, indicating the impact of non-economic factors.  
 
 ## 🗂 Dataset
-*Source:* [World Happiness Report 2021 – Kaggle](/kaggle/input/world-happiness-report-2024)  
+*Source:* [World Happiness Report 2021 – Kaggle]([/kaggle/input/world-happiness-report-2024](https://www.kaggle.com/datasets/dimplerana415/world-happiness-report-2024))  
 The dataset contains scores and metrics for countries worldwide, reflecting economic and social well-being indicators.
 
 ---
 
 ## 📈 Results Preview
-![Choropleth Map](images/choropleth.png)
-![Correlation Heatmap](images/correlation.png)
+
+![Choropleth Map](<img width="947" height="389" alt="Image" src="https://github.com/user-attachments/assets/03eb2f84-f6d4-4ce4-8b1c-745dc7e410c2" />)
+![Correlation Heatmap](<img width="792" height="462" alt="Image" src="https://github.com/user-attachments/assets/5f345a13-b8c9-4b7b-91d3-02fc203fb3cc" />)
+![Correlation Heatmap](<img width="1025" height="405" alt="Image" src="https://github.com/user-attachments/assets/23a19ced-babe-4831-8d33-87cc1d962d73" />)
+
 
 ---
 
