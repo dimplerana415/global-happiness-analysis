@@ -1,4 +1,4 @@
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/4b28cda8-2ba5-430b-8bbb-ba454eaecfbe" />---
+---
 
 # 🌍 Glodal Happiness Analysis - World Happiness Report 2024
 
