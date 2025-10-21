@@ -1,4 +1,4 @@
----
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/4b28cda8-2ba5-430b-8bbb-ba454eaecfbe" />---
 
 # 🌍 Glodal Happiness Analysis - World Happiness Report 2024
 
@@ -7,7 +7,7 @@ This project explores the *World Happiness Report 2024* dataset to understand ho
 ---
 
 ## 📘 About the Project
-This analysis focuses on identifying patterns and relationships between happiness scores and contributing factors such as *GDP per capita, **social support, **healthy life expectancy, and **freedom to make life choices*.  
+This analysis focuses on identifying patterns and relationships between happiness scores and contributing factors such as *GDP per capita,* *social support,* *healthy life expectancy, and* *freedom to make life choices*.  
 
 The project follows a complete *data science workflow* — from loading and cleaning data to performing *Exploratory Data Analysis (EDA)* and creating *visualizations* that highlight global trends.
 
@@ -48,11 +48,11 @@ Created insightful visualizations to better understand global patterns:
 
 ## 🌟 Key Insights
 - Countries in *Northern and Western Europe* consistently rank among the happiest.  
-- *GDP per capita, **social support, and **healthy life expectancy* show strong positive correlations with happiness.  
+- *GDP per capita, social support, and healthy life expectancy* show strong positive correlations with happiness.  
 - A few countries exhibit *high happiness despite moderate GDP*, indicating the impact of non-economic factors.  
 
 ## 🗂 Dataset
-*Source:* [World Happiness Report 2021 – Kaggle](https://www.kaggle.com/datasets/ajaypalsinghlo/world-happiness-report-2021)  
+*Source:* [World Happiness Report 2021 – Kaggle](/kaggle/input/world-happiness-report-2024)  
 The dataset contains scores and metrics for countries worldwide, reflecting economic and social well-being indicators.
 
 ---
@@ -72,7 +72,7 @@ The dataset contains scores and metrics for countries worldwide, reflecting econ
 
 👩‍💻 Author
 
-Dimple Rana
+Dimple Rana |
 Aspiring Data Scientist | Passionate about turning data into insights
 
 
