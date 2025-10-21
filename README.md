@@ -58,10 +58,14 @@ The dataset contains scores and metrics for countries worldwide, reflecting econ
 ---
 
 ## 📈 Results Preview
-
+### Choropleth map of Global Happiness
 ![Choropleth Map](images/Choropleth%20map.png)
+
+### Correlation heatmap of differnt factors and happiness score
 ![Correlation Heatmap](images/Correlation%20heatmap.png)
-![Correlation Heatmap](images/Regions%20boxplot.png)
+
+### Boxplot of happiness trend across regions
+![Regions boxplot](images/Regions%20boxplot.png)
 
 
 ---
