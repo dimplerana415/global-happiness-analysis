@@ -59,9 +59,9 @@ The dataset contains scores and metrics for countries worldwide, reflecting econ
 
 ## 📈 Results Preview
 
-![Choropleth Map](<img width="947" height="389" alt="Image" src="https://github.com/user-attachments/assets/03eb2f84-f6d4-4ce4-8b1c-745dc7e410c2" />)
-![Correlation Heatmap](<img width="792" height="462" alt="Image" src="https://github.com/user-attachments/assets/5f345a13-b8c9-4b7b-91d3-02fc203fb3cc" />)
-![Correlation Heatmap](<img width="1025" height="405" alt="Image" src="https://github.com/user-attachments/assets/23a19ced-babe-4831-8d33-87cc1d962d73" />)
+![Choropleth Map](images/Choropleth map.png)
+![Correlation Heatmap](images/Correlation heatmap.png)
+![Correlation Heatmap](images/Regions boxplot.png)
 
 
 ---
